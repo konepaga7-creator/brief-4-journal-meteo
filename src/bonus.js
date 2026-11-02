@@ -30,5 +30,5 @@ export function trierParTemperatureDecroissante(releves) {
 // Renvoie le relevé dont la température est la plus haute (le premier en cas d'égalité),
 // ou null si la liste est vide.
 export function journeeLaPlusChaude(releves) {
-  throw new Error('TODO : coder journeeLaPlusChaude dans src/bonus.js');
+  throw new Error('TODO : coder journeeLaPlusChaude dans src/bonus.js'); 
 }
