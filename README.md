@@ -3,7 +3,7 @@
 
 ## Contexte
 
-Le journal météorologique est utilisé par le responsable de la ferme pédagogique pour suivre les conditions des activités. Il permet de saisir, stocker dans un fichier JSON, retrouver une journée par sa date ou son identifiant et lister une courte série de 10 jours. Avec seulement 10 jours on ne peut pas parler de climat, car le climat se caractérise sur une longue période de 30 ans. On décrit uniquement la météo passée de ces journées.
+Le journal météorologique est utilisé par le responsable de la ferme pédagogique pour suivre les conditions des activités. Il permet de saisir, stocker dans un fichier JSON, retrouver une journée par sa date ou son identifiant et lister une courte série de 10 jours. Avec seulement 10 jours on ne peut pas parler de climat, car le climat se caractérise sur une longue période de 30 ans. On décrit uniquement la météo passée de ces journées. L'humidité relative de l'air n'est pas l'humidité du sol.
 
 ## Prérequis et lancement
 
