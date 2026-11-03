@@ -2,12 +2,15 @@
 
 > Une page, relue par le coach agronomie, d'après la fiche de station. Vous décrivez dix relevés fictifs ; vous ne qualifiez pas le climat de la région.
 
-**Commentaire de la série**, avec les résultats de votre programme et les unités :
+**Commentaire de la série**
 
-> Du ✏️ au ✏️, la température relevée varie de ✏️ à ✏️, avec une moyenne de ✏️. Il est tombé ✏️ de pluie ; ✏️ journées ont reçu au moins 10 mm. L'humidité relative de l'air varie de ✏️ à ✏️.
+> Du 2026-10-15 au 2026-10-24 , la température relevée varie de 26°C à 30°C , avec une moyenne de 28°C . Il est tombé 45 mm de pluie ; 2 journées ont reçu au moins 10 mm. L'humidité relative de l'air varie de 68% à 85%.
 
-**Saison** : d'après la fiche de station, à quelle saison correspond la période ? ✏️
+**Saison** 
+ D'après la fiche de station, la période du 15 au 24 octobre correspond à la fin de la petite saison des pluies.
 
-**Une limite pour l'interprétation climatique** (dix jours contre une trentaine d'années pour un climat ; ce que le seuil de 10 mm ne prévoit pas ; l'humidité de l'air n'est pas celle du sol) : ✏️
+**Une limite pour l'interprétation climatique** 
+ 10 jours ne permettent pas de définir le climat, le climat se calcule sur 30 ans. Le seuil de 10 mm est arbitraire et ne permet pas de conclure à une inondation ou à un besoin d'irrigation. L'humidité mesurée est celle de l'air, pas celle du sol.
 
-Sources : ✏️ · Relu par le coach le : ✏️
+
+Sources : releves.json · Relu par le coach le : ✏️

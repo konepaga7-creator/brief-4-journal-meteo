@@ -1,10 +1,9 @@
 # Journal météorologique de la ferme
 
-> Projet individuel du SAS DFS, brief 4 (sujet : [SUJET.md](SUJET.md)). Remplacez chaque ✏️ par votre texte, puis supprimez cette ligne.
 
 ## Contexte
 
-✏️ *En trois à cinq phrases : qui utilise l'outil, quel problème il résout, ce qu'il ne permet pas de conclure.*
+Le journal météorologique est utilisé par le responsable de la ferme pédagogique pour suivre les conditions des activités. Il permet de saisir, stocker dans un fichier JSON, retrouver une journée par sa date ou son identifiant et lister une courte série de 10 jours. Avec seulement 10 jours on ne peut pas parler de climat, car le climat se caractérise sur une longue période de 30 ans. On décrit uniquement la météo passée de ces journées.
 
 ## Prérequis et lancement
 
@@ -38,8 +37,7 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 
 ## Limites
 
-✏️ *Au moins trois. Par exemple : dix jours de relevés forment une courte série, ils ne décrivent pas le climat de la région.*
-
+D'abord une seule mesure par jour : on a une seule température par jour, donc le minimum et le maximum calculés sont ceux de la série.Ensuite un seuil de pluie arbitraire de 10 mm ne permet pas de conclure à une inondation ou à un besoin d'irrigation. Enfin La série de 10 jours ne permet pas de définir le climat de la région, on ne peut que décrire la météo de ces 10 jours.
 ## Documents
 
 [Dictionnaire des données](docs/dictionnaire-donnees.md) · [Tâches](docs/taches.md) · [Relevé des tests](docs/releve-tests.md) · [Journal de recherche](docs/journal-recherche.md) · [Fiche agronomique](docs/fiche-agronomique.md) · [Fiche individuelle](docs/fiche-individuelle.md)
@@ -47,3 +45,5 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 ## Auteur
 
 ✏️ *Prénom NOM, compte GitHub. Entraide : avec qui, sur quoi.*
+Pagadjoufougou Abdoulaye Koné
+konepaga7-creator!
