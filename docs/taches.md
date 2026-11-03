@@ -5,7 +5,7 @@
 | Tâche | Prévu | Fait le | Preuve |
 | --- | --- | --- | --- |
 | Poste et dépôt prêts ; besoin compris ; documents commencés |jour2 |2026-11-03 |Je viens faire le commit |
-| Fiche 2 : lire et écrire le JSON | jour2|2026-11-03 | |
+| Fiche 2 : lire et écrire le JSON | jour2|2026-11-03 | Action terminée|
 | Fiche 3 : ajouter et lister ; choix 1 et 2 ; erreurs | | | |
 | Fiche 4 : rechercher et trier ; choix 3 et 4 | | | |
 | Fiche 5 : synthèse ; choix 5 | | | |
