@@ -25,8 +25,8 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 - [x ] Ajouter un relevé, saisies invalides refusées sans arrêter le programme
 - [x ] Lister les relevés, message si le journal est vide
 - [x ] Rechercher par identifiant ou par date ; journées pluvieuses (au moins 10 mm)
-- [ ] Trier par température ou par pluie
-- [ ] Synthèse : température moyenne, minimale et maximale de la série, cumul de pluie, journées pluvieuses
+- [ x] Trier par température ou par pluie
+- [x ] Synthèse : température moyenne, minimale et maximale de la série, cumul de pluie, journées pluvieuses
 - [ ] Bonus : supprimer et modifier un relevé (choix 6 et 7)
 - [ ] Bonus : tri par température décroissante, journée la plus chaude
 
