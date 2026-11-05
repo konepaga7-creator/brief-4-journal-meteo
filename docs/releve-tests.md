@@ -43,4 +43,9 @@ Les tests ont été faits avec node app.js, menu choix 1. Le journal comptait 11
 
 Les six règles de validation refusent bien les valeurs interdites, sans modifier le journal. Les deux valeurs limites (-2 °C et 100 %) sont acceptées. Une saisie avec plusieurs erreurs affiche un message par règle non respectée.
 
-**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️
+**Sur un autre poste** (`git clone`, `node app.js`, `npm test`)
+
+Toure Tioh Emmanuel
+Serifou Cheick Oumar
+Kamagate Salia Abdallah
+Kimou Appiah Johan Junior
