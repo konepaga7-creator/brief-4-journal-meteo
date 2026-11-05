@@ -68,26 +68,6 @@
     "temperatureC": 30,
     "pluieMm": 2,
     "humiditeAirPct": 74
-  },
-  {
-    "id": "M11",
-    "date": "2026-10-25",
-    "temperatureC": 27.5,
-    "pluieMm": 4,
-    "humiditeAirPct": 79
-  },
-  {
-    "id": "M13",
-    "date": "2026-10-27",
-    "temperatureC": -2,
-    "pluieMm": 4,
-    "humiditeAirPct": 70
-  },
-  {
-    "id": "M14",
-    "date": "2026-10-28",
-    "temperatureC": 25,
-    "pluieMm": 4,
-    "humiditeAirPct": 100
   }
+  
 ]

@@ -1,9 +1,7 @@
 # Journal de recherche
 
-> Chaque recherche utile : ce que vous cherchiez, où (cours, [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript), [Node.js](https://nodejs.org/api/), un camarade, une IA…), ce que vous avez compris. Ce que vous gardez, vous devez pouvoir l'expliquer.
-
 | Ce que je cherchais | Où | Ce que j'ai compris | Utilisé dans |
-| --- | --- | --- | --- |
+
 
 | Comment saisir au clavier dans un terminal | Doc Node.js readline + IA| Le navigateur a un prompt() mais Node.js n'en a pas, il faut utiliser le module natif readline avec createInterface pour poser une question, et close() pour fermer|src/saisie.js, utilisé dans app.js.|
 
